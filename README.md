@@ -1,4 +1,5 @@
-# when you initiate the decoding function by writing a word in it, 
+# decoding_word
+when you initiate the decoding function by writing a word in it, 
 it will calculate the distance of each letter from the beginning of the alphabet 
 and change the letter with the letter which has the same distance from the end of the alphabet.
 
